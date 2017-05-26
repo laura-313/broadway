@@ -2,3 +2,25 @@ body {
   font-family: helvetica;
   text-align: center;
 }
+h1 {
+  text-align: center;
+  font-size: 70px;
+  font-weight: bold;
+  color: white;
+}
+h2{
+  font-size: 23px;
+  font-weight: bold;
+  color: black;
+}
+#newyork {
+  background-image: url(../images/the-flatiron-building.png);
+  color: white;
+}
+h3 {
+  font-size: 28;
+  color: white;
+}
+p {
+  font-size: 14;
+}
