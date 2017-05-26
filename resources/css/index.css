@@ -2,14 +2,8 @@ body {
   font-family: helvetica;
   text-align: center;
 }
-.image{
-  position: relative;
-  width: 100%;
-}
-
 h1 {
-  position:absolute;
-  width: 100%;
+
   text-align: center;
   font-size: 70px;
   font-weight: bold;
@@ -32,12 +26,18 @@ h4 {
   font-size: 18;
   color: white;
 }
+h1, #nav{
+  background-image: url("../images/the-flatiron-building.png");
+}
 p {
   font-size: 14;
+}
+ul {
+  list-style-type: none;
 }
 #footer {
   text-align: left;
   font-size: 11px;
   color: white;
-  background-color: lightgrey;
+  background-color: dimgrey;
 }
